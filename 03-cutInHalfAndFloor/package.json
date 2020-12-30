@@ -1,10 +1,10 @@
 {
-  "name": "01-titleCaseEdit",
+  "name": "03-cutInHalfAndFloor",
   "version": "1.0.0",
   "description": "",
-  "main": "titleCaseEdit.js",
+  "main": "cutInHalfAndFloor.js",
   "scripts": {
-    "test": "mocha titleCaseEdit.test.js"
+    "test": "mocha cutInHalfAndFloor.test.js"
   },
   "keywords": [],
   "author": "",

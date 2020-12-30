@@ -1,10 +1,10 @@
 {
-  "name": "01-titleCaseEdit",
+  "name": "02-subtractFive",
   "version": "1.0.0",
   "description": "",
-  "main": "titleCaseEdit.js",
+  "main": "subtractFive.js",
   "scripts": {
-    "test": "mocha titleCaseEdit.test.js"
+    "test": "mocha subtractFive.test.js"
   },
   "keywords": [],
   "author": "",

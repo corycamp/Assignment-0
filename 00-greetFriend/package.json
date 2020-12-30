@@ -4,7 +4,7 @@
   "description": "",
   "main": "greetFriend.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha greetFriend.test.js"
   },
   "keywords": [],
   "author": "",
