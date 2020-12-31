@@ -1,0 +1,16 @@
+{
+  "name": "05-countOfAllBooleansAndStrings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countOfAllBooleansAndStrings.js",
+  "scripts": {
+    "test": "mocha countOfAllBooleansAndStrings.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}

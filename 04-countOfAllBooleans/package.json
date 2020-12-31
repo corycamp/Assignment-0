@@ -1,0 +1,16 @@
+{
+  "name": "04-countOfAllBooleans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countOfAllBooleans.js",
+  "scripts": {
+    "test": "mocha countOfAllBooleans.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
